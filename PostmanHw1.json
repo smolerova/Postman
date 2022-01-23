@@ -85,7 +85,7 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "http://162.55.220.72:5005/object_info_1?name=Gleb&age=25&weight=75",
+					"raw": "http://162.55.220.72:5005/object_info_1?name=David&age=25&weight=75",
 					"protocol": "http",
 					"host": [
 						"162",
@@ -100,7 +100,7 @@
 					"query": [
 						{
 							"key": "name",
-							"value": "Gleb"
+							"value": "David"
 						},
 						{
 							"key": "age",
